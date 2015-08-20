@@ -16,6 +16,10 @@ import org.apache.http.util.EntityUtils;
 
 public class ServiceHandler {
 
+
+
+
+
     static String response = null;
     public final static int GET = 1;
     public final static int POST = 2;
